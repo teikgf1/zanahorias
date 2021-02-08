@@ -290,7 +290,7 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp: //tracker.kamigami.org: 2710 / anuncie
+udp://tracker.kamigami.org:2710/anuncie
 
 http://tracker.files.fm:6969/announce
 
@@ -338,7 +338,7 @@ http://bt.pusacg.org:8080/announce
 
 https://tracker.bt-hash.com:443/announce
 
- 
+
 udp: //tracker.leechers-paradise.org: 6969
 
 https://182.176.139.129:6969/announce
