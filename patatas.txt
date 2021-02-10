@@ -230,3 +230,4 @@ udp://151.80.120.114:2710/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://explodie.org:6969/announce
